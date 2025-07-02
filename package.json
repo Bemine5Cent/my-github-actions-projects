@@ -1,0 +1,25 @@
+{
+  "name": "my-github-actions-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bemine5Cent/my-github-actions-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bemine5Cent/my-github-actions-projects/issues"
+  },
+  "homepage": "https://github.com/Bemine5Cent/my-github-actions-projects#readme",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "express": "^5.1.0",
+    "mocha": "^11.7.1"
+  }
+}
